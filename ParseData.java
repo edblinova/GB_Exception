@@ -23,7 +23,7 @@ public class ParseData {
                 // System.out.println(arrayDate[0]);
                 // System.out.println(arrayDate[1]);
                 // System.out.println(arrayDate[2]);
-                System.out.println(Integer.parseInt(arrayDate[0]));
+                // System.out.println(Integer.parseInt(arrayDate[0]));
                 if (Integer.parseInt(arrayDate[0]) < 0 ||
                         Integer.parseInt(arrayDate[0]) > 31 || Integer.parseInt(arrayDate[1]) < 0 ||
                         Integer.parseInt(arrayDate[1]) > 12 || Integer.parseInt(arrayDate[2]) < 0 ||
